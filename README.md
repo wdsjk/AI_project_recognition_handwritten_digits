@@ -1,0 +1,2 @@
+# AI_project_recgntion_hndwritten_digts
+Python pet project
